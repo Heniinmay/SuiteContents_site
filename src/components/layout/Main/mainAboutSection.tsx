@@ -183,7 +183,7 @@ const AboutSection = () => {
     <Container>
       <IntroWrapper>
         <IntroSecWrp>
-          <IntroTitle>시간이 벌써 이렇게? </IntroTitle>
+          <IntroTitle>시간이 벌써 이렇게?</IntroTitle>
           <IntroDesc>
             게임에 열중하면 시간은 순식간에 지나가 버립니다. 스위트게임즈가
             만드는 게임이 추구하는 방향입니다. 플레이 하는 여러분의 소중한

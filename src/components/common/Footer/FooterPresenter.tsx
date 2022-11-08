@@ -222,7 +222,7 @@ const FooterPresenter = () => {
       <FooterBottom>
         <LogoImg />
         <InfoWrp>
-          <InfoTitle>Suite Contents co.</InfoTitle>
+          <InfoTitle>Suite Games co.</InfoTitle>
           <InfoContents>
             <InfoText>주식회사 스위트게임즈</InfoText>
             <InfoText>사업자등록번호 310-86-03121</InfoText>
